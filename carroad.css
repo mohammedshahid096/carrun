@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#building{
+
+width: 100%;
+height: 70%;
+background-image: url(building2_2.jpg); 
+background-repeat:no-repeat;
+background-size: 1282px;
+background-position:center;
+
+
+}
+#imgbuilding{
+width: 100%;
+height: 100%;
+}
+#road{
+width: 100%;
+height: 30%;
+background-image: url(road2.jpg);
+background-position-x:right;
+background-repeat:repeat-x;
+background-size: 830px; 
+
+}
+
+#carimag2{
+margin-top: 27px;
+width: 20%;
+height:70%;
+
+}
+.ssbutton{
+background-color: yellow;
+width: 100px;
+height: 30px;
+font-size: 20px;
+}
+#fbuttons{
+text-align: center;
+
+
+}
